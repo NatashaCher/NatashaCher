@@ -16,15 +16,15 @@
   <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="600" height="300"/>
 </div>
 
-### :woman_technologist: About Me :
-I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: Software QA Engineer with  hands-on experience in such levels of testing as functional, integration, system, and user acceptance testing.
+### About Me :
+I am a QA Engineer from Russia.
+- Software QA Engineer with  hands-on experience in such levels of testing as functional, integration, system, and user acceptance testing.
 
-- :seedling: I want to fully apply my knowledge and potential.
+- I want to fully apply my knowledge and potential.
 
-- :zap: In my free time I listen to podcasts and read technical articles.
+- In my free time I listen to podcasts and read technical articles.
 
-### :hammer_and_wrench: Tools :
+### Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudoi" alt="androidstudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluense" alt="Confluense" width="40" height="40"/>&nbsp;
@@ -33,9 +33,9 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+### My Stats :
 
-### :writing_hand: Blog Posts :
+### Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
