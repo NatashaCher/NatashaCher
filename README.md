@@ -18,14 +18,15 @@ I am a beginner QA Engineer.
 
 ## My CV
 
-
 ### Language and Tools :
-![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=Flutter&logoColor=47C5FB)
+![JIRA](https://img.shields.io/badge/JIRA-090909?style=for-the-badge&logo=JIRA&logoColor=1f75fe)
+![POCTMAN](https://img.shields.io/badge/POSTMAN-090909?style=for-the-badge&logo=POSTMAN&logoColor=ed9121)
+![GITHUB](https://img.shields.io/badge/GITHUB-090909?style=for-the-badge&logo=GITHUB&logoColor=fffafa)
+![DEVTOOLS](https://img.shields.io/badge/DEVTOOLS-090909?style=for-the-badge&logo=GOOGLECHROME&logoColor=1f75fe)
+![ANDROIDSTUDIO](https://img.shields.io/badge/ANDROIDSTUDIO-090909?style=for-the-badge&logo=ANDROIDSTUDIO&logoColor=50c878)
+![QASE.IO](https://img.shields.io/badge/QASE.IO-090909?style=for-the-badge&logo=QASE&logoColor=53377a)
+![CHARLESPROXY](https://img.shields.io/badge/CHARLESPROXY-090909?style=for-the-badge&logo=CHARLES&logoColor=1f75fe)
+![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-090909?style=for-the-badge&logo=POSTGRESQL&logoColor=2a8d9c)
+![PYTHON](https://img.shields.io/badge/PYTHON-090909?style=for-the-badge&logo=PYTHON&logoColor=f3da0b)
 
-### My Stats :
-
-### Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
