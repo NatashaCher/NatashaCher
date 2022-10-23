@@ -42,4 +42,5 @@ I am a beginner QA Engineer.
   <li>Postman Collections</li> 
 </ul>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatashaCher&show_icons=true&&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
