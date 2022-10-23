@@ -8,7 +8,7 @@
  <img src="https://komarev.com/ghpvc/?username=NatashaCher&style=flat-square&color=blue" alt=""/>
 </div>
 
-### About Me :
+## About Me :
 I am a beginner QA Engineer.
 - Software QA Engineer with  hands-on experience in such levels of testing as functional, integration, system, and user acceptance testing.
 
@@ -16,14 +16,11 @@ I am a beginner QA Engineer.
 
 - In my free time I listen to podcasts and read technical articles.
 
+## My CV
+
+
 ### Language and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudoi" alt="androidstudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Confluense" alt="Confluense" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=Flutter&logoColor=47C5FB)
 
 ### My Stats :
 
