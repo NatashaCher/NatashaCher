@@ -2,7 +2,12 @@
   <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/natalya-chernobrovina-b27b41250/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=1a4780" alt="Linkedin Badge"/>
+  </a>
+  </div>
+  <div id="badges">
+  <a href="https://t.me/nat_chernobrovina">
+    <img src="https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1974d2" alt="Telegram Badge"/>
   </a>
   </div>
  <img src="https://komarev.com/ghpvc/?username=NatashaCher&style=flat-square&color=blue" alt=""/>
@@ -28,5 +33,13 @@ I am a beginner QA Engineer.
 ![CHARLESPROXY](https://img.shields.io/badge/CHARLESPROXY-090909?style=for-the-badge&logo=CHARLES&logoColor=1f75fe)
 ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-090909?style=for-the-badge&logo=POSTGRESQL&logoColor=2a8d9c)
 ![PYTHON](https://img.shields.io/badge/PYTHON-090909?style=for-the-badge&logo=PYTHON&logoColor=f3da0b)
+
+### Testing Documentation
+<ul> 
+  <li>Checklists</li> 
+  <li>Test-Suites and Test-Cases</li> 
+  <li>Bug-Reports</li> 
+  <li>Postman Collections</li> 
+</ul>
 
 
