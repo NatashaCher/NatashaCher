@@ -35,12 +35,11 @@ I am a beginner QA Engineer.
 ![PYTHON](https://img.shields.io/badge/PYTHON-090909?style=for-the-badge&logo=PYTHON&logoColor=f3da0b)
 
 ### Testing Documentation
-<ul> 
-  <li>[Checklists](https://github.com/NatashaCher/Cheklists/wiki/Cheklists)</li> 
-  <li>Test-Suites and Test-Cases</li> 
-  <li>Bug-Reports</li> 
-  <li>Postman Collections</li> 
-</ul>
+* [Checklists](https://github.com/NatashaCher/Cheklists/wiki)
+* [Test-Suites and Test-Cases]
+* [Bug-Reports]
+* [Postman Collections]
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatashaCher&show_icons=true&&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
