@@ -36,7 +36,7 @@ I am a beginner QA Engineer.
 
 ### Testing Documentation
 <ul> 
-  <li>Checklists</li> 
+  <li>Checklists(https://github.com/NatashaCher/Cheklists/wiki/Cheklists)</li> 
   <li>Test-Suites and Test-Cases</li> 
   <li>Bug-Reports</li> 
   <li>Postman Collections</li> 
